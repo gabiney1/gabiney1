@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate with coding professionals
-- 📫 How to reach me "gabiney1
+- 📫 How to reach me is godwin.biney@gmail.com
 
 <!---
 gabiney1/gabiney1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
