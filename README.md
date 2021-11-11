@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabiney1
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on codiing professionals
+- 💞️ I’m looking to collaborate with coding professionals
 - 📫 How to reach me "gabiney1
 
 <!---
